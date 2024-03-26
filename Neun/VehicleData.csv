@@ -1,0 +1,7 @@
+Brand,Model,Year,Price,Seater,NumDoors,Type,MaxCapacity,TowingCapacity
+Honda,Civic,2023,22500,5,4,,,
+Ford,F-150,2022,35000,,,,5,10000
+Ford,Mustang,2024,35000,4,2,,,
+Honda,CBR600RR,2023,10000,,,Cruiser,,
+Yamaha,YZF-R3,2022,6000,,,Sport,,
+Toyota,Tacoma,2023,30000,,,,4,6800
